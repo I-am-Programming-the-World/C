@@ -16,7 +16,7 @@ The following is a list of some fun and practical mini-projects and projects:
       Calculate the average of 10 grades (simple)
     </li>
     <li>
-      Calculate the average of n grades (advanced-includes sentinel value for exiting loops and if/else clause to print the     results if existent.)
+      Calculate the average of n grades (advanced-includes sentinel value for exiting the main loop and if/else clause to print the     results if existent.)
     </li>
   </ul>
 
