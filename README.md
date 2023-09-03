@@ -12,6 +12,9 @@ The following is a list of some fun and practical mini-projects and projects:
     <li>
       ASCII code generator (sequential)
     </li>
+	<li>
+      Calculate the integeral average of two integers.
+    </li>
     <li>
       Calculate the integeral average of 10 grades (simple)
     </li>
