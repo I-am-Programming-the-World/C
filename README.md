@@ -10,6 +10,9 @@ The following is a list of some fun and practical mini-projects and projects:
       BMI Calculator
     </li>
     <li>
+	<li>
+      Average of n random numbers
+    </li>
       ASCII code generator (sequential)
     </li>
 	<li>
