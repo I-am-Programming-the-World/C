@@ -19,6 +19,9 @@ The following is a list of some fun and practical mini-projects and projects:
       ASCII code generator (sequential)
     </li>
 	<li>
+      Calculate the relations between two numbers.
+    </li>
+	<li>
       Calculate the integeral average of two integers.
     </li>
     <li>
