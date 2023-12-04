@@ -12,6 +12,9 @@ The following is a list of some fun and practical mini-projects and projects:
 	<li>
       Average of n random numbers
     </li>
+	<li>
+      Adds every number from 1 to 10
+    </li>
     <li>
       ASCII code generator (sequential)
     </li>
