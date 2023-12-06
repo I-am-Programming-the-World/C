@@ -13,20 +13,38 @@ The following is a list of some fun and practical mini-projects and projects:
       Average of n random numbers
     </li>
 	<li>
+	  Square of a number (function-based)
+	</li>
+	<li>
       Adds every number from 1 to 10
     </li>
-    <li>
-      ASCII code generator (sequential)
+	<li>
+	  Program that adds every number from 1 to 10
+	</li>
+	<li>
+      Calculate the relations between two numbers
     </li>
 	<li>
-      Calculate the relations between two numbers.
+      Calculate the integeral average of two integers
     </li>
 	<li>
-      Calculate the integeral average of two integers.
+      Full characters ASCII code generator (sequential)
     </li>
     <li>
       Calculate the integeral average of 10 grades (simple)
     </li>
+	<li>
+      ASCII code generator (sequential from character 33 to the 256th character)
+    </li>
+	<li>
+	  Square & Cube (Claculates the an input numbers "Squared" & "Cubed" answers)
+	</li>
+	<li>
+	  Top student amongst 10 (Claculates the grade for the index of the student with the highest grade.)
+	</li>
+	<li>
+	  Radius converter program (receives "Radius" as an input, and calculates "Diameter", "Circumference", and "Area")
+	</li>
     <li>
       Calculate the average of n grades (advanced-includes sentinel value for exiting the main loop and if/else clause to print the     results if existent.)
     </li>
